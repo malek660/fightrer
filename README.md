@@ -1,2 +1,1 @@
-# fightrer
-fighter fighter
+# Fighter Project
